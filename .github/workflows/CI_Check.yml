@@ -2,6 +2,9 @@
 name: CI
 
 on:
+  push:
+    branches:
+    - main
   schedule:
   - cron: "0 11,23 * * 1-5"
   - cron: "0 9,23 * * 6"
