@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/ros/humble/include/**"
+                "/opt/ros/humble/include/**",
+                "/ros_ws/install/mecha_control/include/mecha_control"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
