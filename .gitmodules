@@ -1,24 +1,32 @@
 [submodule "src/nucleo_agent"]
 	path = src/nucleo_agent
 	url = https://github.com/NeyagawaRobocons/nucleo_agent
+	branch = main
 [submodule "src/mecha_control"]
 	path = src/mecha_control
 	url = https://github.com/NeyagawaRobocons/mecha_control
+	branch = main
 [submodule "src/pc_robot_controller"]
 	path = src/pc_robot_controller
 	url = https://github.com/NeyagawaRobocons/pc_robot_controller
+	branch = main
 [submodule "src/chassis_haru_robo2024"]
 	path = src/chassis_haru_robo2024
 	url = https://github.com/NeyagawaRobocons/chassis_haru_robo2024
+	branch = main
 [submodule "src/robot_master"]
 	path = src/robot_master
 	url = https://github.com/NeyagawaRobocons/robot_master
+	branch = main
 [submodule "src/emcl2_ros2"]
 	path = src/emcl2_ros2
 	url = https://github.com/NeyagawaRobocons/emcl2_ros2
+	branch = main
 [submodule "src/laser_filters"]
 	path = src/laser_filters
 	url = https://github.com/NeyagawaRobocons/laser_filters
+	branch = main
 [submodule "src/ldlidar"]
 	path = src/ldlidar
 	url = https://github.com/NeyagawaRobocons/ldlidar
+	branch = main
