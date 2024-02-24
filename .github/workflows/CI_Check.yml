@@ -19,6 +19,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
+      - name: update submodules
+        run: |
+          git submodule update --remote --recursive
       - name: pull container
         run: |
           docker pull ghcr.io/neyagawarobocons/robo_env_container:latest
