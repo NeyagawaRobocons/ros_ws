@@ -25,8 +25,8 @@
 [submodule "src/laser_filters"]
 	path = src/laser_filters
 	url = https://github.com/NeyagawaRobocons/laser_filters
-	branch = main
+	branch = ros2
 [submodule "src/ldlidar"]
 	path = src/ldlidar
 	url = https://github.com/NeyagawaRobocons/ldlidar
-	branch = main
+	branch = ros2
