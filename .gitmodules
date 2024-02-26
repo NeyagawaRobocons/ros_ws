@@ -30,3 +30,7 @@
 	path = src/ldlidar
 	url = https://github.com/NeyagawaRobocons/ldlidar
 	branch = ros2
+[submodule "src/cclp"]
+	path = src/cclp
+	url = https://github.com/NeyagawaRobocons/cclp
+	branch = main
