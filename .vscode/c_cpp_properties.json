@@ -5,7 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/ros/humble/include/**",
-                "/ros_ws/install/mecha_control/include/mecha_control"
+                "/ros_ws/install/mecha_control/include/mecha_control",
+                "/ros_ws/install/nucleo_agent/include/nucleo_agent",
+                "/ros_ws/install/cclp/include/cclp"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
